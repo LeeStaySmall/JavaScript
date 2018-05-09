@@ -12,6 +12,7 @@ let string = changeString`我今天早餐是${dessert}和${tea}!`
 function changeString(string, ...values) {
     // console.log(string)
     // [ '我今天早餐是', '和', '!' ]
+    // 其实string 里面有两个一个是原始值还有一个是处理过的值
 
     // console.log(values)
     // [ '🎂', '🍵' ]
