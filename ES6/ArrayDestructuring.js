@@ -1,7 +1,7 @@
 'use strict'
 
 /*
-* 解构数组
+* 1、解构数组
 * */
 function breakArr() {
     return ['🎂', '🍵', '🍎']

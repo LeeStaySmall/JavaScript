@@ -1,7 +1,7 @@
 'use strict'
 
 /*
-* 对象解构
+* 2、对象解构
 * */
 
 function breakObj() {
